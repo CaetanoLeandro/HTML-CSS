@@ -1,0 +1,25 @@
+h1{
+    background-color: grey;
+}
+h2{
+    background-color: blue;
+    color:ghostwhite;
+    padding-top: 5px; <!-- padding, distância do títtulo h2 para o texto -->
+    padding-left: 8px;
+}
+.exp{ <!-- * -->
+    text-indent: 500px;
+}
+#email{
+    text-decoration:underline;
+    font-style:italic;
+}
+body{
+    font-family:Ubunto,Arial; <!--respectivamente, definimos a oredem de seleção da fonte -->
+    width: 940px;
+    margin-right: auto; <!-- centraliza a página -->
+    margin-left: auto;
+}
+#cabecalho{
+    text-align: center;
+}

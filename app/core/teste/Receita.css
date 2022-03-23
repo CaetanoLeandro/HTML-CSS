@@ -1,0 +1,26 @@
+body{
+    background-color:silver;
+    font-family: Ubunto, Arial;
+    width: 940px;
+    margin-right: auto;
+    margin-left: auto;
+}
+h2{
+    background-color: darkgrey;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    color: black;
+}
+#tb-nutrientes{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid black;
+}
+#tb-nutrientes th{
+    background-color: midnightblue;
+    text-decoration:underline;
+    font-style:italic;
+}
